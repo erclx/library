@@ -14,7 +14,7 @@ A simple library application to keep track of books you've read. Users can add n
 
 ## Live Demo
 
-[View the Live Library](https://ar1ze.github.io/library/)
+[View the Live Library](https://erclx.github.io/library/)
 
 -----
 
